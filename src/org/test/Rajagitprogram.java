@@ -5,6 +5,7 @@ public class Rajagitprogram {
 		System.out.println("Shanmugam");
 		System.out.println("Raja");
 		System.out.println("Sathish");
+		System.out.println("Moorthy");
 	}
 
 }
